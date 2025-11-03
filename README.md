@@ -1,5 +1,7 @@
 # Contact Book
 
+XD
+
 The purpose of this exercise is to train using nested classes.
 
 Estimated workload of this exercise is _60 min_.
@@ -70,3 +72,4 @@ Resulting array must not contain any null values.
 ### Examples
 
 See usage examples in tests inside [src/test/java](src/test/java).
+
