@@ -1,6 +1,5 @@
 # Contact Book
 
-XD
 
 The purpose of this exercise is to train using nested classes.
 
@@ -72,4 +71,5 @@ Resulting array must not contain any null values.
 ### Examples
 
 See usage examples in tests inside [src/test/java](src/test/java).
+
 
