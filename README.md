@@ -1,3 +1,8 @@
+## About this project
+
+This project was implemented by me as part of an EPAM educational Java course.
+The original task description below was provided by EPAM.
+
 # Contact Book
 
 
@@ -71,5 +76,6 @@ Resulting array must not contain any null values.
 ### Examples
 
 See usage examples in tests inside [src/test/java](src/test/java).
+
 
 
